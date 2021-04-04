@@ -10,7 +10,7 @@
     {
       "name": "Camilo Sperberg",
       "email": "me+tgapi@unreal4u.com",
-      "homepage": "https://github.com/unreal4u/telegram-api/graphs/contributors"
+      "homepage": "https://github.com/teleclient/telegram-api/graphs/contributors"
     }
   ],
   "require": {
@@ -40,8 +40,8 @@
     }
   },
   "support": {
-    "issues": "https://github.com/unreal4u/telegram-api/issues",
-    "source": "https://github.com/unreal4u/telegram-api"
+    "issues": "https://github.com/teleclient/telegram-api/issues",
+    "source": "https://github.com/teleclient/telegram-api"
   },
   "license": "MIT"
 }
